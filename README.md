@@ -1,54 +1,73 @@
 # Hi there 👋 I'm Juliet Uzoeshi
 
-## About Me
-I am an Automation and AI Engineer with a background in industrial control systems, data analytics, and intelligent manufacturing solutions. My work focuses on bridging the gap between traditional automation (PLC/SCADA) and modern AI-driven optimisation.
-
-I enjoy designing systems that make industrial processes smarter, more efficient, and more reliable.
+Automation & AI Engineer | Industrial Systems | Smart Manufacturing
 
 ---
 
-## What I Work On
-- Industrial Automation (PLC & SCADA)
-- AI and Machine Learning for Manufacturing
-- Process Optimisation and Predictive Maintenance
-- Industrial Data Analytics
-- Smart Factory and Industry 4.0 Solutions
+## About Me
+I am an Automation and AI Engineer with experience in industrial control systems, data analytics, and intelligent manufacturing solutions.  
+
+My work focuses on integrating **PLC/SCADA systems with machine learning and data-driven optimisation** to improve process performance, reliability, and efficiency.
+
+I am passionate about:
+- Smart Manufacturing
+- Industry 4.0
+- Predictive Maintenance
+- Process Optimisation
+- AI for Industrial Systems
 
 ---
 
 ## Featured Projects
-- AI Powered Process Intelligence Dashboard  
-- AI Driven Batch Optimisation Engine  
-- Smart Maintenance Prediction System  
 
-These projects demonstrate practical applications of artificial intelligence in industrial environments, including real-time analytics, anomaly detection, and predictive modelling.
+### AI Powered Process Intelligence Dashboard
+A real-time industrial analytics dashboard for monitoring process health, detecting anomalies, and supporting operational decision-making.
+
+### AI Driven Batch Optimisation Engine
+A machine learning system designed to optimise batch manufacturing parameters to improve yield and reduce waste, aligned with ISA-88 principles.
+
+### Smart Maintenance Prediction System
+A predictive maintenance platform using machine learning to forecast equipment failures and reduce unplanned downtime.
 
 ---
 
-## Technologies & Tools
+## Technical Skills
+
+### Programming & Data
 - Python
-- Machine Learning (Scikit-learn, Pandas, NumPy)
-- PLC Programming and SCADA Systems
-- Data Visualisation and Dashboards
-- Industrial Communication Concepts (OPC UA, MQTT)
+- Pandas
+- NumPy
+- Scikit-learn
+- SQL
+
+### Automation & Control
+- PLC Programming
+- SCADA Systems
+- Industrial Process Control
+- Batch Processing Concepts (ISA-88)
+- Industrial Communications Concepts (OPC UA, MQTT)
+
+### Engineering & Analytics
+- Process Optimisation
+- Predictive Maintenance
+- Data Visualisation
+- System Integration
 
 ---
 
 ## Current Focus
-I am currently focused on developing intelligent automation solutions that combine:
-- Industrial control systems  
-- Data analytics  
-- Machine learning  
-- Real-time monitoring  
-
-My goal is to contribute to the next generation of smart manufacturing systems.
+I am currently working on:
+- AI-driven optimisation systems
+- Industrial data pipelines
+- Real-time analytics dashboards
+- Intelligent automation solutions
 
 ---
 
 ## Connect With Me
 Website: https://www.smartopstech.com  
 LinkedIn: https://www.linkedin.com/in/juliet-uzoeshi-546a471b1  
-Email: uzoeshijuliet@gmail.com
+Email: uzoeshijuliet@gmail.com  
 
 ---
 
