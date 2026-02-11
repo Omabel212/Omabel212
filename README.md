@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Juliet Uzoeshi
 
-<!--
-**Omabel212/Omabel212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an Automation and AI Engineer with a background in industrial control systems, data analytics, and intelligent manufacturing solutions. My work focuses on bridging the gap between traditional automation (PLC/SCADA) and modern AI-driven optimisation.
 
-Here are some ideas to get you started:
+I enjoy designing systems that make industrial processes smarter, more efficient, and more reliable.
 
-- 🔭 I’m currently working on Github repositories
-- 🌱 I’m currently learning software development
-- 👯 I’m looking to collaborate on Python, machine learning and Artificial intelligence.
-- 🤔 I’m looking for help with Python programming
-- 💬 Ask me about anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love playing football and learning new things.
--->
-![panda-tech-guru-cartoon-illustration-computer-expertise_839035-1141304](https://github.com/user-attachments/assets/f7b71a37-e1d8-46f3-b22b-11f6d6c2295e)
+---
+
+## What I Work On
+- Industrial Automation (PLC & SCADA)
+- AI and Machine Learning for Manufacturing
+- Process Optimisation and Predictive Maintenance
+- Industrial Data Analytics
+- Smart Factory and Industry 4.0 Solutions
+
+---
+
+## Featured Projects
+- AI Powered Process Intelligence Dashboard  
+- AI Driven Batch Optimisation Engine  
+- Smart Maintenance Prediction System  
+
+These projects demonstrate practical applications of artificial intelligence in industrial environments, including real-time analytics, anomaly detection, and predictive modelling.
+
+---
+
+## Technologies & Tools
+- Python
+- Machine Learning (Scikit-learn, Pandas, NumPy)
+- PLC Programming and SCADA Systems
+- Data Visualisation and Dashboards
+- Industrial Communication Concepts (OPC UA, MQTT)
+
+---
+
+## Current Focus
+I am currently focused on developing intelligent automation solutions that combine:
+- Industrial control systems  
+- Data analytics  
+- Machine learning  
+- Real-time monitoring  
+
+My goal is to contribute to the next generation of smart manufacturing systems.
+
+---
+
+## Connect With Me
+Website: https://www.smartopstech.com  
+LinkedIn: https://www.linkedin.com/in/juliet-uzoeshi-546a471b1  
+Email: uzoeshijuliet@gmail.com
+
+---
+
+Thanks for visiting my profile!
