@@ -29,6 +29,9 @@ A machine learning system designed to optimise batch manufacturing parameters to
 ### Smart Maintenance Prediction System
 A predictive maintenance platform using machine learning to forecast equipment failures and reduce unplanned downtime.
 
+### Manufacturing Defect Prediction Task
+A self-contained ML example that generates synthetic process data, trains a logistic-regression classifier via gradient descent, evaluates classification metrics, and prints priority operator alerts with recommended actions — all using only the Python standard library.
+
 ---
 
 ## Technical Skills
